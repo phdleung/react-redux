@@ -1,5 +1,3 @@
-# react-redux
+# Learning React Redux
 
-Learning react/redux.
-
-Mini projects created using "create-react-app"
+A repository to learn react redux
